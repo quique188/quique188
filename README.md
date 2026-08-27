@@ -8,7 +8,7 @@ Soy estudiante de Ingeniería Informática.
 - 💻 Interesado Redes.
 - ☕ Aprendiendo Python.
 - 🗄️ Interesado en bases de datos.
-- 🐧 Aprendiendo Linux y trabajando con WSL.
+- 🐧 Aprendiendo Linux con WSL.
 
 ## 🎯 Intereses
 
