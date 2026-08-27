@@ -4,7 +4,7 @@ Soy estudiante de Ingeniería Informática.
 
 ## 💻 Sobre mí
 
-- 🎓 Estudiante de Ingeniería Informáticao.
+- 🎓 Estudiante de Ingeniería Informática.
 - 💻 Interesado Redes.
 - ☕ Aprendiendo Python.
 - 🗄️ Interesado en bases de datos.
