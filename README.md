@@ -1,16 +1,23 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Enrique
 
-<!--
-**quique188/quique188** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de Ingeniería Informática.
 
-Here are some ideas to get you started:
+## 💻 Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Estudiante de Ingeniería Informáticao.
+- 💻 Interesado Redes.
+- ☕ Aprendiendo Python.
+- 🗄️ Interesado en bases de datos.
+- 🐧 Aprendiendo Linux y trabajando con WSL.
+
+## 🎯 Intereses
+
+Me interesa seguir aprendiendo sobre desarrollo de software,
+bases de datos, Linux, y nuevas tecnologías.
+
+## 📚 Actualmente aprendiendo
+
+- Git y GitHub
+- Linux / WSL
+- Data Science
+- Machine Learning
